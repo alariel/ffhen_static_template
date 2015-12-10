@@ -1,0 +1,31 @@
+body {
+	font-family:serif;
+	font-size:1em;
+	}
+h1 {
+	font-size:2em;
+	font-family:Sans-serif;
+	font-weight:bold;
+	width:95%;
+	background-color:#dc0067;
+	}
+h2 {
+	font-size:1.6em;
+	font-family:Sans-serif;
+	font-weight:bold;
+	width:95%;
+	background-color:#dc0067;
+	}
+
+.tecdata {
+	font-size:0.9em;
+	font-family:Monospace;
+	background-color:#ffb400;
+	}
+.logo {
+	float:right;
+	margin-right:50px;
+	width:200px;
+	height:200px;
+	background-image: url("../graph/FF-logo-hen_200.png");
+	}
